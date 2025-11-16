@@ -7,6 +7,9 @@
 ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
 ![MediaPipe](https://img.shields.io/badge/MediaPipe-0075FF?logo=google&logoColor=white)
 
+![phantomreach](https://github.com/user-attachments/assets/c7827bf4-e969-4dbf-a47a-3c824e82ece0)
+
+
 ### Abstract
 
 PhantomReach is a web-based Augmented Reality (AR) platform designed to revolutionize the management of Phantom Limb Pain (PLP). By leveraging a standard webcam and advanced on-device machine learning, PhantomReach provides an accessible, affordable, and engaging rehabilitation experience based on clinically-proven mirror therapy protocols. Our solution tracks user movements in real-time to control a virtual limb, helping to remap neural pathways and alleviate pain through gamified therapeutic exercises. This project aims to empower amputees with a tool for effective, long-term, at-home pain management.
